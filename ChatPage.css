@@ -1,0 +1,46 @@
+.abc{
+    background-color:lightcyan;
+    text-align: left;
+    border-radius: 5px;
+    height: 60px ;
+    padding-left: 25px;
+    
+}
+.xyz{
+    background-color:plum ;
+    text-align: right;
+    height: 60px;
+    border-radius: 5px;
+    padding-right: 25px;
+    border-color: black;
+    
+    
+    
+}
+
+.C{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQJVT9lwMNVswbT4OPKsg4WOGdaW8BXwpHQQ&s");
+    height: 600px;
+    width: 800px;
+    border: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    
+}
+body{
+    padding-left: 350px;
+}
+.pqv{
+    padding-top: 8px;
+    font-size:larger;
+}
+.Gupta{
+    text-align: center;
+    background-color:purple ;
+    height: 65px;
+    padding-top: 1px;
+    padding-bottom: 9px;
+    text-decoration-color: aliceblue;
+    width: 860px;
+}
